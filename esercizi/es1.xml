@@ -1,9 +1,0 @@
-<!-- definire i seguenti elementi: elemento root: TEI, 
-elementi figli: header (obbligatorio una occorrenza), 
-facsimile (opzionale una occorrenza), 
-text (obbligatorio almeno una occorrenza)-->
-
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI>
-    <header></header>
-</TEI>
